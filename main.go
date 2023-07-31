@@ -13,7 +13,7 @@ import (
 
 func main() {
 	fmt.Println("Hello!! 🍌 👶 💢")
-	const name, age = "JT and Iqy 450", 22
+	const name, age = "JT and Iqy 4501100", 22
 	fmt.Printf("%s is %d years old.\n", name, age)
 	fmt.Println(`
 	
