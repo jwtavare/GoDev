@@ -1,14 +1,7 @@
 package main
 
 import (
-
-	"bufio"
-    "fmt"
-    "os"
-    "strings"
-    "syscall"
-    "golang.org/x/term"
-
+	"fmt"
 )
 
 func main() {
