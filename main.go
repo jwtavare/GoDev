@@ -1,9 +1,12 @@
 package main
 
-import "fmt"
-
+import (
+	"fmt"
+	"math/rand"
+)
 
 func main() {
+	fmt.Println(rand.Intn(100000))
 	fmt.Println("Hello!! 🍌 👶 💢")
 	const name, age = "JT and Iqy 4501100", 22
 	fmt.Printf("%s is %d years old.\n", name, age)
